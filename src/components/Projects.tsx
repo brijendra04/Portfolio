@@ -5,7 +5,7 @@ const projects = [
   {
     title: 'E-Commerce Platform',
     description: 'This E-Commerce Platform is a comprehensive website offering secure user authentication, product browsing, cart management, and a streamlined checkout process.',
-    image: 'https://files.oaiusercontent.com/file-KmK7sGWfd2njUToc6FXGAm?se=2024-12-30T10%3A43%3A15Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D0afbcbeb-5951-4c14-a636-99934d315320.webp&sig=pkJjhpXJhEA2W7nxIrj6QQ/OjO4iOZz2WeX%2BCsKKOh0%3D',
+    image: 'https://drive.google.com/file/d/1zqQGWb30bpZg6YuxllkkokGnfyerCSLk/view?usp=sharing',
     tags: ['React', 'Node.js', 'Express.js', 'Tailwind'],
     github: 'https://github.com/brijendra04/E-Commerce',
     live: 'https://e-commerce-app-six-opal.vercel.app/',
@@ -13,7 +13,7 @@ const projects = [
   {
     title: 'ByteBooks - Online Library',
     description: 'This web app allows users to browse, search, and manage books. It also feature book details with filtering and sorting options, offering a streamlined library experience.',
-    image: 'https://files.oaiusercontent.com/file-8ApqZ5jaYVkcMMEt8WU5Ve?se=2024-12-30T10%3A50%3A52Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D2f59e974-701e-4151-ab73-eb10eb2ee785.webp&sig=SqYlgxuhTh%2B/T2DdFSpSqd7mrsN170XHbVaU8R5jCPg%3D',
+    image: 'https://drive.google.com/file/d/1Tzhe3OIJZPb56Fojcq6Wh-thmjGMx0p6/view?usp=sharing',
     tags: ['React', 'Node.js', 'Postman', 'MongoDB'],
     github: 'https://github.com/brijendra04/libraryApp',
     live: 'https://libraryapp-eosin.vercel.app/',
@@ -21,7 +21,7 @@ const projects = [
   {
     title: 'Notes Making Web-Application',
     description: 'A notes making web application that allows users to create, edit, and manage their notes. It offers a user-friendly interface. Users can edit, and delete notes across different devices.',
-    image: 'https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80',
+    image: 'https://drive.google.com/file/d/1o022Ibp84RcGeU_a3cZbsKby9XlVQ2Vb/view?usp=sharing',
     tags: ['Reactjs', 'Javascript', 'CSS'],
     github: 'https://github.com/brijendra04/Notes-App',
     live: 'https://notes-app-brijendra.netlify.app/',
