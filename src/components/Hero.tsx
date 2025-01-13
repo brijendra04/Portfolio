@@ -52,7 +52,7 @@ export default function Hero() {
         <div className="lg:w-1/2 relative">
           <div className="absolute inset-0 bg-orange-500 rounded-full blur-3xl opacity-20 animate-pulse" />
           <img
-            src="../src/assets/logo.png"
+            src="https://drive.google.com/file/d/1E_WnfsGbK7Dg8nBM-8W9P4itiDBkDm1U/view?usp=sharing"
             alt="Brijendra"
             className="relative rounded-full w-64 h-64 lg:w-96 lg:h-96 object-cover mx-auto shadow-2xl ring-4 ring-orange-500/50"
           />
