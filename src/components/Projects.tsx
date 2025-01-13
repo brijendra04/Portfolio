@@ -5,7 +5,7 @@ const projects = [
   {
     title: 'E-Commerce Platform',
     description: 'This E-Commerce Platform is a comprehensive website offering secure user authentication, product browsing, cart management, and a streamlined checkout process.',
-    image: 'https://drive.google.com/file/d/1zqQGWb30bpZg6YuxllkkokGnfyerCSLk/view?usp=sharing',
+    image: "../src/assets/ecomm.png",
     tags: ['React', 'Node.js', 'Express.js', 'Tailwind'],
     github: 'https://github.com/brijendra04/E-Commerce',
     live: 'https://e-commerce-app-six-opal.vercel.app/',
@@ -13,7 +13,7 @@ const projects = [
   {
     title: 'ByteBooks - Online Library',
     description: 'This web app allows users to browse, search, and manage books. It also feature book details with filtering and sorting options, offering a streamlined library experience.',
-    image: 'https://drive.google.com/file/d/1Tzhe3OIJZPb56Fojcq6Wh-thmjGMx0p6/view?usp=sharing',
+    image: "../src/assets/lib.png",
     tags: ['React', 'Node.js', 'Postman', 'MongoDB'],
     github: 'https://github.com/brijendra04/libraryApp',
     live: 'https://libraryapp-eosin.vercel.app/',
@@ -21,7 +21,7 @@ const projects = [
   {
     title: 'Notes Making Web-Application',
     description: 'A notes making web application that allows users to create, edit, and manage their notes. It offers a user-friendly interface. Users can edit, and delete notes across different devices.',
-    image: 'https://drive.google.com/file/d/1o022Ibp84RcGeU_a3cZbsKby9XlVQ2Vb/view?usp=sharing',
+    image: "../src/assets/note.png",
     tags: ['Reactjs', 'Javascript', 'CSS'],
     github: 'https://github.com/brijendra04/Notes-App',
     live: 'https://notes-app-brijendra.netlify.app/',
