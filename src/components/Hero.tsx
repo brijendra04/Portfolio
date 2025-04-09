@@ -21,7 +21,7 @@ export default function Hero() {
           </p>
           <div className="flex gap-4 justify-center lg:justify-start">
             <a
-              href="https://drive.google.com/file/d/1tjRCzHXRzYXPhZ-iq_40qujmgReIHBqb/view?usp=sharing"
+              href="https://drive.google.com/file/d/1OYbTsuwFxM-G7P2gcc74IyPIKdlvTC7B/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-6 py-3 bg-orange-500 hover:bg-orange-600 rounded-full transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg"
