@@ -16,7 +16,15 @@ const projects = [
     image: "./assets/lib.png",
     tags: ['React', 'Node.js', 'Postman', 'MongoDB'],
     github: 'https://github.com/brijendra04/libraryApp',
-    live: 'https://libraryapp-eosin.vercel.app/',
+    live: 'https://bytebookes-frontend.onrender.com/',
+  },
+  {
+    title: 'Imagify - AI Image Generator',
+    description: 'Imagify is an AI image generator that allows users to create stunning images using advanced AI algorithms. Users can input text prompts and generate unique images.',
+    image: "./assets/imagify.png",
+    tags: ['Reactjs', 'Javascript', 'CSS', 'OpenAI', 'Node.js', 'Express.js', 'Api'],
+    github: 'https://github.com/brijendra04/Imagify',
+    live: 'https://imagify-green-psi.vercel.app/',
   },
   {
     title: 'Notes Making Web-Application',
